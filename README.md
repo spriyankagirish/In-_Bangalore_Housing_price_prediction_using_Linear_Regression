@@ -1,1 +1,1 @@
-# In_Bangalore_Housing_price_prediction_using_Linear_Regression
+# In Bangalore Housing price prediction using Linear Regression
